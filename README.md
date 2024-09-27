@@ -65,7 +65,8 @@ To run this project locally, follow these steps:
     
     
     git clone https://github.com/Bharadwaj-99/koinx
-    cd task1 
+
+    
     
 2.  **Install dependencies**:
     
