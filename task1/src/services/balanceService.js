@@ -16,7 +16,7 @@ const calculateBalance = async (timestamp) => {
     }
   });
 
-  // Remove any assets with zero balance
+ 
   Object.keys(balances).forEach(asset => {
     if (balances[asset] === 0) {
       delete balances[asset];
